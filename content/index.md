@@ -1,10 +1,7 @@
 ---
-title: introduction
-draft: true
-tags:
-  - introduction
-date: 23/11/2024
+title: Introduction
 ---
-Hey reader, How are you? Hope you are in a good place, and doing good. I am so elated to announce that I am hosting this platform, and you can see it online, without any third-party stuff, I know, third-parties are there (medium, hashnode, etc.), but I don't care, you will see crap there, but here, its only you and me, you will read my thoughts, no one can stop me, thanks to obsidian and quartz. You can read all my thoughts/contents here, no one is stopping you and me. You can see about me at [my-portfolio](tausiqsama.me). Expectations: anything, but for percentage game: 40% my thoughts, 60% science and tech related. My unbiased opinions and thoughts are here. 
+Hey reader, hope are in a good place and doing good. I am very elated, that I am writing my stuff in internet online. So, thanks to obsidian and quartz for this. This is a place where you will see only my thoughts. So, I am writing about tech stuff, my own personal views, some science may be. So, you might see some crazy stuff here. Here is my [portfolio](https://tausiqsama.me). Hope you will like my writings. Thanks :)
 
-Hope, you have a good read. 
+
+
