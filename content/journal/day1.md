@@ -38,6 +38,6 @@ date: 2025-07-07
 - Started with OSI model.
 - Read whats the role of each model (Application Layer, Presentation Layer, Session Layer, Transport Layer, Network Layer, Data Link Layer, Physical Layer)
 ### Chess-Analyze Project
-- So, I am building a project chess-analyze, which will simulate the chess.com's analysis feature for free.
+- So, I am building a project chess-analyze (github.com/tausiq2003/analyze-chess), which will simulate the chess.com's analysis feature for free.
 - Read about workers and their async nature, so had some problems with it.
 - Experimenting with stockfish.js, so extract, cp, nodes, etc. to classify the moves, and build the eval bar.
