@@ -2,7 +2,7 @@
 title: Day 4
 draft: false
 tags:
-  - example-tag
+  - xdaystilligetjob
 date: 2025-07-10
 ---
 ### DSA
