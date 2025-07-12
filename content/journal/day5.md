@@ -17,3 +17,4 @@ date: 2025-07-11
 ### Project
 - Tested the evalbar value from cp, accuracy from positions, classifications from win percentages, estimation of elo from positions and acpl.
 - Implement in the code tomorrow.
+
