@@ -15,3 +15,5 @@ date: 2025-07-13
 - 4 Sum
 
 Did only DSA, hope will cover arrays in 1-2 days. Hope to launch the project tomorrow. Lets see. Then I will revise the arrays and start binary search
+
+Its 1 AM, so will update above approach next day.
