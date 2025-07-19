@@ -1,5 +1,5 @@
 ---
-title: day7
+title: Day 7
 draft: false
 tags:
   - xdaystilligetjob
